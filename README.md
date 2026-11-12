@@ -76,6 +76,9 @@ Fields in `Customer_Support_Tickets`:
 -   Cards, bar/column charts, donut charts, and other report visuals
 -   Slicers and interactive filtering
 
+## Dashboard Images 
+
+
 
 ## Author
 
