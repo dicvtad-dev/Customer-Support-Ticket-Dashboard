@@ -11,9 +11,9 @@
 
   BI tool                             Microsoft Power BI Desktop
 
-  Source workbook                     `Day3_Customer_Support_Analytics DATA ONLY(1).xlsx`
+  Source workbook                     `Customer_Support_Analytics DATA ONLY.xlsx`
 
-  Dashboard reference                 `WEEK2_DAY3_TASK_V2(1).pdf`
+  Dashboard reference                 `CSTD.pdf`
 
   Dataset size                        400 ticket records
 
@@ -211,30 +211,3 @@ and report elements:
 -   Donut charts
 -   Slicers and interactive filters
 -   Multi-page report navigation and analysis
-
-## 8. Suggested repository contents
-
-``` text
-Customer-Support-Ticket-Analytics-PowerBI/
-├── README.md
-├── PROJECT_DETAILS.md
-├── Dashboard/
-│   ├── Customer_Support_Ticket_Analytics.pbix
-│   └── Customer_Support_Ticket_Analytics.pdf
-├── Dataset/
-│   └── Customer_Support_Tickets.xlsx
-└── Images/
-    └── dashboard-preview.png
-```
-
-Only include the `.pbix` file if you intend to share the editable
-report. Review the workbook for personal or confidential information
-before making the repository public.
-
-## 9. Project summary
-
-This project demonstrates a multi-page customer support analytics report
-built around 400 ticket records. It brings together ticket status, issue
-categories, priorities, channels, cities, team assignments, agent
-activity, and customer-level analysis in one Power BI reporting
-solution.
