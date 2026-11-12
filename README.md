@@ -77,8 +77,11 @@ Fields in `Customer_Support_Tickets`:
 -   Slicers and interactive filtering
 
 ## Dashboard Images 
-
-
+![](DASHBOARD/CSTD-01.png)
+![](DASHBOARD/CSTD-02.png)
+![](DASHBOARD/CSTD-03.png)
+![](DASHBOARD/CSTD-04.png)
+![](DASHBOARD/CSTD-05.png)
 
 ## Author
 
